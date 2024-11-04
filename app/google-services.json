@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1033971561572",
+    "project_id": "navigatoin-drower",
+    "storage_bucket": "navigatoin-drower.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033971561572:android:caf42271214086ee355b71",
+        "android_client_info": {
+          "package_name": "com.example.navigationdower"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPmzxTP8Evu8yjnzu5cPn3zGwAJs0GRy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
